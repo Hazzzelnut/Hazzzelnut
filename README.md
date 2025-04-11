@@ -1,7 +1,7 @@
 # meow :3
 <picture>
-  <source media="prefers-color-scheme: dark)" srcset="https://i.pinimg.com/736x/f4/40/8a/f4408ae59bc76f809d049fcc92cbea80.jpg">
-<img alt="Welcome!" src="https://i.pinimg.com/736x/f4/40/8a/f4408ae59bc76f809d049fcc92cbea80.jpg">
+  <source media="prefers-color-scheme: dark)" srcset="https://i.kym-cdn.com/photos/images/newsfeed/002/224/606/005.png">
+<img alt="Welcome!" src="https://i.kym-cdn.com/photos/images/newsfeed/002/224/606/005.png">
 </picture> 
 
 ## Languages I eat
